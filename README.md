@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilchoudhary194
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning React native 
+- 👀 I’m interested in development , coding and problem solving
+- 🌱 I’m currently learning React native and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email,phone
 - 😄 Pronouns: ...
